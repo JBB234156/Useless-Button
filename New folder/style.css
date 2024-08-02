@@ -1,0 +1,38 @@
+body {
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+#nrtrBtn {
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 65px;
+    margin-right: 100px;
+    font-size: 50px;
+    color:white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#nrtrBtn:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#btnArea {
+    background-color:rgb(255, 0, 0);
+    justify-content: center;
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 500px;
+    box-shadow: 2px 2px 5px;
+}
+
+#nrtr {
+   margin-left: 10px;
+}
+
+    

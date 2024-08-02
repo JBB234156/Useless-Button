@@ -89,7 +89,7 @@ function handlebuttonclick1() {
     clickcount1++;
 
     if (clickcount1 >= requiredclicks1 && clickcount1 <= clickcount1a) {
-       //newtab() 
+       newtab() 
     }
     
     if (clickcount1 === clickcount2) {

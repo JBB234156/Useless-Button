@@ -14,6 +14,7 @@ var messages = [
     'I\'ll leave you with that', // wait 5 clicks till next comment
     '',
     '',
+    '',
     'Still not enough for you?', // stop making it open new tabs
     'God, you\'re greedy',
     'Alright, you wanna mess with me?',
